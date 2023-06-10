@@ -278,16 +278,12 @@ Huge thanks for their ideas and efforts 👍
 
 MIT © [Denys Dovhan][denysdovhan]
 
-<!-- 
-[hacs-url]: https://github.com/hacs/integration
-[hacs-image]: https://img.shields.io/badge/hacs-default-orange.svg?style=flat-square
--->
-
 <!-- Badges -->
 
 [npm-url]: https://npmjs.org/package/vacuum-card
 [npm-image]: https://img.shields.io/npm/v/vacuum-card.svg?style=flat-square
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
+[hacs-url]: https://github.com/hacs/integration
+[hacs-image]: https://img.shields.io/badge/hacs-default-orange.svg?style=flat-square
 [gh-sponsors-url]: https://github.com/sponsors/denysdovhan
 [gh-sponsors-image]: https://img.shields.io/github/sponsors/denysdovhan?style=flat-square
 [patreon-url]: https://patreon.com/denysdovhan
