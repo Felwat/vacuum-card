@@ -55,6 +55,7 @@ ha-card {
   max-width: 95%;
   image-rendering: crisp-edges;
   cursor: pointer;
+  scale: 2.2;
 }
 
 @keyframes cleaning {
@@ -128,8 +129,8 @@ ha-card {
 
 .vacuum {
   display: block;
-  max-width: 90%;
-  max-height: 200px;
+  max-width: 25%;
+  max-height: 100px;
   image-rendering: crisp-edges;
   margin: var(--vc-spacing) auto;
   cursor: pointer;
